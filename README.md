@@ -26,7 +26,6 @@ There is also a scoreboard in the course to encourage people to complete assignm
 
 ## Course Completetion Certificate
 
-![Certificate](https://github.com/rachitdani/PwSkills-DataScience-Assignments/assets/79761144/74d9cb81-3415-4b3a-ad11-43c11425f746)
 
 
 
